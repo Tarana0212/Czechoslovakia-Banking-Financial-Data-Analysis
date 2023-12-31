@@ -20,7 +20,7 @@ Created Tables.
 3. S3 bucket in AWS:
 S3 bucket and policy created and then attached to role.
 
-4.Storage Intergration:
+4. Storage Intergration:
 Created Cloud Storage Integration in Snowflake and mapped S3 user/role with it.
 Modified Trust Relationships by using STORAGE_AWS_IAM_USER_ARN and STORAGE_AWS_EXTERNAL_ID
 
